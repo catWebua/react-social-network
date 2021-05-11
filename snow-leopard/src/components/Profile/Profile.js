@@ -5,7 +5,7 @@ import MyPost from "./MyPosts/MyPost";
 const Profile = () => {
     return(
         <div className={p.content}>
-            <div>
+            <div className={p.contentImg}>
                 <img src="https://vjoy.cc/wp-content/uploads/2019/07/1.jpeg" alt="image"/>
             </div>
             <div>
