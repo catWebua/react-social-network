@@ -13,5 +13,8 @@ ul li{
   grid-template-columns: 2fr 10fr;
 }
 
-
+.app-wrapper-content{
+  grid-area: content-right;
+  background-color: antiquewhite;
+}
 

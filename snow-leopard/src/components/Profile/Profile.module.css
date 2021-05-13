@@ -1,7 +1,3 @@
-.content{
-    grid-area: content-right;
-    background-color: antiquewhite;
-}
 .contentImg img{
     width: 100%;
 }
