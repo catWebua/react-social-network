@@ -56,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1620332874973</updated>
       <workItem from="1620332876164" duration="8330000" />
-      <workItem from="1620758079601" duration="10047000" />
+      <workItem from="1620758079601" duration="15510000" />
+      <workItem from="1621263682205" duration="2462000" />
     </task>
     <servers />
   </component>
@@ -64,10 +65,22 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Deployment" timestamp="1620975782363">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1620975782363" />
+    <state x="440" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620974102758">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="440" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1620974102758" />
     <state x="221" y="89" key="SettingsEditor" timestamp="1620757895393">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1620757895393" />
+    <state x="418" y="176" width="604" height="548" key="find.popup" timestamp="1621265458660">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="176" width="604" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1621265458660" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1620767991551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -78,7 +91,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/snow-leopard/src/components/News/News.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
