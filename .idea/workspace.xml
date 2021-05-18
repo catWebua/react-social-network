@@ -28,7 +28,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/snow-leopard/src/components/News" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/snow-leopard" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,11 +40,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/snow-leopard" />
       <recent name="$PROJECT_DIR$/snow-leopard/src/components/News" />
       <recent name="$PROJECT_DIR$/snow-leopard/src/components/Settings" />
       <recent name="$PROJECT_DIR$/snow-leopard/src/components/Music" />
       <recent name="$PROJECT_DIR$/snow-leopard/src/components/Dialogs" />
-      <recent name="$PROJECT_DIR$/snow-leopard/src/components/Profile/MyPosts/Post" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -57,7 +57,7 @@
       <updated>1620332874973</updated>
       <workItem from="1620332876164" duration="8330000" />
       <workItem from="1620758079601" duration="15510000" />
-      <workItem from="1621263682205" duration="2462000" />
+      <workItem from="1621263682205" duration="15277000" />
     </task>
     <servers />
   </component>
@@ -77,10 +77,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1620757895393" />
-    <state x="418" y="176" width="604" height="548" key="find.popup" timestamp="1621265458660">
+    <state x="418" y="195" width="604" height="548" key="find.popup" timestamp="1621344319708">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="418" y="176" width="604" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1621265458660" />
+    <state x="418" y="195" width="604" height="548" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1621344319708" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1620767991551">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
